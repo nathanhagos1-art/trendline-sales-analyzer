@@ -33,7 +33,6 @@ Stock risk alerts (3):
 [OVERSOLD] Leather Belt: -3 units remaining
 ## Running it
 python analyze_sales.py sales_data.csv
-Code
 Requires only the Python standard library — no external packages.
 
 ## Why I built this
