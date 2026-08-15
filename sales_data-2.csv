@@ -1,0 +1,21 @@
+date,product,category,units_sold,unit_price,stock_remaining
+2026-06-01,Cotton T-Shirt,Tops,42,15.99,120
+2026-06-01,Denim Jacket,Outerwear,8,59.99,15
+2026-06-01,Running Shorts,Bottoms,25,19.99,80
+2026-06-02,Wool Scarf,Accessories,12,12.99,60
+2026-06-02,Cotton T-Shirt,Tops,38,15.99,82
+2026-06-02,Leather Belt,Accessories,6,24.99,10
+2026-06-03,Denim Jeans,Bottoms,19,44.99,45
+2026-06-03,Wool Scarf,Accessories,5,12.99,55
+2026-06-03,Denim Jacket,Outerwear,3,59.99,12
+2026-06-04,Cotton T-Shirt,Tops,55,15.99,27
+2026-06-04,Running Shorts,Bottoms,30,19.99,50
+2026-06-04,Leather Belt,Accessories,9,24.99,1
+2026-06-05,Wool Scarf,Accessories,14,12.99,41
+2026-06-05,Denim Jeans,Bottoms,22,44.99,23
+2026-06-05,Cotton T-Shirt,Tops,47,15.99,-20
+2026-06-06,Denim Jacket,Outerwear,11,59.99,1
+2026-06-06,Running Shorts,Bottoms,18,19.99,32
+2026-06-06,Leather Belt,Accessories,4,24.99,-3
+2026-06-07,Cotton T-Shirt,Tops,60,15.99,-80
+2026-06-07,Wool Scarf,Accessories,9,12.99,32
